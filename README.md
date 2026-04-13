@@ -24,6 +24,7 @@ Welcome to my data science portfolio! This repository contains a collection of m
 * **[GreenHouse Plants & Farm Production Analysis](./Domain-Specific-Analytics/GreenHouse-Plants-Analysis.ipynb):** Agricultural data analysis optimizing plant growth and farm yields.
 * **[Happiness Index Prediction](./Domain-Specific-Analytics/Happiness-Index-Prediction.ipynb):** Socio-economic regression modeling focusing on South Asia & the Middle East.
 * **[Farm Production Analysis](./Domain-Specific-Analytics/Farm-Production-Analysis.ipynb):** Evaluating crop yield patterns and environmental factors to provide data-driven insights for agricultural optimization.
+* **[Student Mental Health & Burnout Analysis](./Domain-Specific-Analysis/Student-Mental-Health-and-Burnout-Analysis.ipynb): ** A global study on how social media consumption impacts sleep and psychological well-being across 111 countries.
 
 ### 💬 Natural Language Processing (NLP)
 * **[App Reviews EDA & Sentiment Analysis](./NLP-and-Text-Analysis/App-Reviews-EDA-Sentiment-Analysis.ipynb):** Extracting sentiment polarity and aligning qualitative user reviews with quantitative star ratings.
