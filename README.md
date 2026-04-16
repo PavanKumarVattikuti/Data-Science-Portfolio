@@ -18,6 +18,8 @@ Welcome to my data science portfolio! This repository contains a collection of m
 ### 📈 Business & Financial Analytics
 * **[Global Petrol Prices Analysis (April 2026)](./Business-and-Financial-Analytics/Global-Petrol-Prices-Analysis.ipynb):** Macro-economic analysis of recent global fuel price trends.
 * **[Supermarket Sales Analysis - KPIs](./Business-and-Financial-Analytics/Supermarket-Sales-Analysis-KPIs.ipynb):** Deriving actionable Key Performance Indicators from retail sales data.
+*  **[Forecasting S&P 500 Trends](./Business-and-Financial-Analytics/Forecasting-S&P-500-Trends-Using-Global-Data.ipynb)** Using global economic indicators to forecast market movements.
+*  **[Predictive Algorithmic Trading](./Business-and-Financial-Analytics/Predictive-Algorithmic-Trading-Aldrees-Petroleum.ipynb)** Implementing trading strategies for Aldrees Petroleum using predictive modeling.
 
 ### 🏏 Domain-Specific Analytics (Sports, Agriculture, Socio-Economic)
 * **[IPL 2026: Comprehensive EDA & ML Win Predictor](./Domain-Specific-Analytics/IPL-2026-EDA-ML-Predictor.ipynb):** Real-time sports analytics and match outcome prediction.
