@@ -8,28 +8,33 @@ Welcome to my data science portfolio! This repository contains a collection of m
 
 ## 📂 Project Categories
 
-### 🤖 Machine Learning & Predictive Modeling
-* **[Predicting AI/ML Salaries](./Machine-Learning-and-Predictive-Modeling/Predicting-AIML-Salaries.ipynb):** An end-to-end machine learning pipeline predicting compensation trends in the AI sector.
-* **[Diabetes Analysis & Model Deployment](./Machine-Learning-and-Predictive-Modeling/Diabetes-Analysis-Prediction.ipynb):** Diagnostic predictive modeling for healthcare data.
-* **[Stocks Prediction LSTM Model](./Machine-Learning-and-Predictive-Modeling/Stocks-Prediction-LSTM.ipynb):** Deep learning application using Long Short-Term Memory networks for financial forecasting.
-* **[Consumer Behavior Analysis](./Machine-Learning-and-Predictive-Modeling/Consumer-Behavior-Predictive-Model.ipynb):** Baseline predictive modeling to understand consumer purchasing patterns.
-* **[F1 Pit Stop Prediction](./Machine-Learning-and-Predictive-Modeling/F1-Pit-Stop-Prediction(Random-Forest).ipynb):** Utilizing Random Forest regression to predict pit stop durations based on historical race telemetry and track conditions.
+## 🤖 Machine Learning & Predictive Modeling
+- [Predicting AI/ML Salaries](Machine-Learning-and-Predictive-Modeling/Predicting-AIML-Salaries.ipynb): An end-to-end machine learning pipeline predicting compensation trends in the AI sector.
+- [Diabetes Analysis & Model Deployment](Machine-Learning-and-Predictive-Modeling/Diabetes-Analysis-Prediction.ipynb): Diagnostic predictive modeling for healthcare data.
+- [End-to-End Liver Disease Prediction](Machine-Learning-and-Predictive-Modeling/End-to-End-Liver-Disease-Prediction.ipynb): A diagnostic machine learning pipeline to predict liver disease based on patient health metrics.
+- [Stocks Prediction LSTM Model](Machine-Learning-and-Predictive-Modeling/Stocks-Prediction-LSTM.ipynb): Deep learning application using Long Short-Term Memory networks for financial forecasting.
+- [Consumer Behavior Analysis](Machine-Learning-and-Predictive-Modeling/Consumer-Behavior-Predictive-Model.ipynb): Baseline predictive modeling to understand consumer purchasing patterns.
+- [F1 Pit Stop Prediction](Machine-Learning-and-Predictive-Modeling/F1-Pit-Stop-Prediction(Random-Forest).ipynb): Utilizing Random Forest regression to predict pit stop durations based on historical race telemetry and track conditions.
 
-### 📈 Business & Financial Analytics
-* **[Global Petrol Prices Analysis (April 2026)](./Business-and-Financial-Analytics/Global-Petrol-Prices-Analysis.ipynb):** Macro-economic analysis of recent global fuel price trends.
-* **[Supermarket Sales Analysis - KPIs](./Business-and-Financial-Analytics/Supermarket-Sales-Analysis-KPIs.ipynb):** Deriving actionable Key Performance Indicators from retail sales data.
-*  **[Forecasting S&P 500 Trends](./Business-and-Financial-Analytics/Forecasting-S&P-500-Trends-Using-Global-Data.ipynb)** Using global economic indicators to forecast market movements.
-*  **[Predictive Algorithmic Trading](./Business-and-Financial-Analytics/Predictive-Algorithmic-Trading-Aldrees-Petroleum.ipynb)** Implementing trading strategies for Aldrees Petroleum using predictive modeling.
+## 📈 Business & Financial Analytics
+- [Global Petrol Prices Analysis (April 2026)](Business-and-Financial-Analytics/Global-Petrol-Prices-Analysis.ipynb): Macro-economic analysis of recent global fuel price trends.
+- [Supermarket Sales Analysis - KPIs](Business-and-Financial-Analytics/Supermarket-Sales-Analysis-KPIs.ipynb): Deriving actionable Key Performance Indicators from retail sales data.
+- [Forecasting S&P 500 Trends](Business-and-Financial-Analytics/Forecasting-S&P-500-Trends-Using-Global-Data.ipynb): Using global economic indicators to forecast market movements.
+- [Predictive Algorithmic Trading](Business-and-Financial-Analytics/Predictive-Algorithmic-Trading-Aldrees-Petroleum.ipynb): Implementing trading strategies for Aldrees Petroleum using predictive modeling.
+- [FIFA Transfer Value & Scouting Intelligence](Business-and-Financial-Analytics/FIFA-Transfer-Value-&-Scouting-Intelligence.ipynb): Analyzing football player metrics to determine market value and uncover scouting opportunities.
+- [Strategic Import Analysis - Growth And Risk](Business-and-Financial-Analytics/Strategic-Import-Analysis-Growth-And-Risk.ipynb): Evaluating international trade data to assess import growth trends and supply chain risks.
 
-### 🏏 Domain-Specific Analytics (Sports, Agriculture, Socio-Economic)
-* **[IPL 2026: Comprehensive EDA & ML Win Predictor](./Domain-Specific-Analytics/IPL-2026-EDA-ML-Predictor.ipynb):** Real-time sports analytics and match outcome prediction.
-* **[GreenHouse Plants & Farm Production Analysis](./Domain-Specific-Analytics/GreenHouse-Plants-Analysis.ipynb):** Agricultural data analysis optimizing plant growth and farm yields.
-* **[Happiness Index Prediction](./Domain-Specific-Analytics/Happiness-Index-Prediction.ipynb):** Socio-economic regression modeling focusing on South Asia & the Middle East.
-* **[Farm Production Analysis](./Domain-Specific-Analytics/Farm-Production-Analysis.ipynb):** Evaluating crop yield patterns and environmental factors to provide data-driven insights for agricultural optimization.
-* **[Student Mental Health & Burnout Analysis](./Domain-Specific-Analysis/Student-Mental-Health-and-Burnout-Analysis.ipynb): ** A global study on how social media consumption impacts sleep and psychological well-being across 111 countries.
+## 🏏 Domain-Specific Analytics (Sports, Agriculture, Socio-Economic)
+- [Fantasy Baseball Decision Intelligence System](Domain-Specific-Analytics/Fantasy-Baseball-Decision-Intelligence-System.ipynb): An end-to-end decision engine for fantasy baseball streaming, using XGBoost and Random Forest to identify high-value (18+ pt) starting pitchers.
+- [IPL 2026: Comprehensive EDA & ML Win Predictor](Domain-Specific-Analytics/IPL-2026-EDA-ML-Predictor.ipynb): Real-time sports analytics and match outcome prediction.
+- [GreenHouse Plants & Farm Production Analysis](Domain-Specific-Analytics/GreenHouse-Plants-Analysis.ipynb): Agricultural data analysis optimizing plant growth and farm yields.
+- [Happiness Index Prediction](Domain-Specific-Analytics/Happiness-Index-Prediction.ipynb): Socio-economic regression modeling focusing on South Asia & the Middle East.
+- [Farm Production Analysis](Domain-Specific-Analytics/Farm-Production-Analysis.ipynb): Evaluating crop yield patterns and environmental factors to provide data-driven insights for agricultural optimization.
+- **[Student Mental Health & Burnout Analysis](Domain-Specific-Analytics/Student-Mental-Health-and-Burnout-Analysis.ipynb):** A global study on how social media consumption impacts sleep and psychological well-being across 111 countries.
+- [Tallinn Restaurant Recommender](Domain-Specific-Analytics/Tallinn-Restaurant-Recommender.ipynb): A localized recommendation engine for dining options in Tallinn, Estonia.
 
-### 💬 Natural Language Processing (NLP)
-* **[App Reviews EDA & Sentiment Analysis](./NLP-and-Text-Analysis/App-Reviews-EDA-Sentiment-Analysis.ipynb):** Extracting sentiment polarity and aligning qualitative user reviews with quantitative star ratings.
+## 💬 Natural Language Processing (NLP)
+- [App Reviews EDA & Sentiment Analysis](NLP-and-Text-Analysis/App-Reviews-EDA-Sentiment-Analysis.ipynb): Extracting sentiment polarity and aligning qualitative user reviews with quantitative star ratings.
 
 ---
 
